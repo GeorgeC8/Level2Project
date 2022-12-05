@@ -1,0 +1,33 @@
+
+.hidden:hover
+{
+    opacity:85%;
+}
+body {
+    background-image:url("images/background.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    
+   }
+
+img
+{
+    width:25%;
+    height:25%;
+    
+   
+}
+.hidden{color:pink;
+text-decoration:none;
+cursor:pointer;}
+p{
+    color:yellow;
+}
+div{
+     display:flex;
+    flex-direction:column; 
+    align-items:center;
+    /* margin-top:200px; */
+    /* justify-content:center; */
+   
+}
